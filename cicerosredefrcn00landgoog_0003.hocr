@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./cicerosredefrcn00landgoog_0003.png"; bbox 0 0 3084 4842; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1244 1006 1865 1070">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1244 1006 1865 1070">
+     <span class='ocr_line' id='line_1_1' title="bbox 1244 1006 1865 1070; baseline -0.008 0"><span class='ocrx_word' id='word_1_1' title='bbox 1244 1006 1865 1070; x_wconf 50' lang='lat' dir='ltr'>12fi1133133222153*&amp;†</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 454 1238 2493 1349">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 454 1238 2493 1349">
+     <span class='ocr_line' id='line_1_2' title="bbox 454 1238 2493 1349; baseline -0.007 0"><span class='ocrx_word' id='word_1_2' title='bbox 454 1345 455 1349; x_wconf 5' lang='grc' dir='ltr'>γ</span> <span class='ocrx_word' id='word_1_3' title='bbox 616 1238 1400 1342; x_wconf 67' lang='lat' dir='ltr'>UNWERffiTY</span> <span class='ocrx_word' id='word_1_4' title='bbox 1472 1258 1629 1334; x_wconf 79' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_5' title='bbox 1705 1238 2493 1334; x_wconf 63' lang='lat' dir='ltr'><strong>CALIFORNIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1156 1618 1340 1678">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1156 1618 1340 1678">
+     <span class='ocr_line' id='line_1_3' title="bbox 1156 1618 1340 1678; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 1156 1618 1340 1678; x_wconf 61' lang='grc' dir='ltr'>(Ϊῶαεε</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 364 658 2762 2018">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 364 658 2762 2018">
+     <span class='ocr_line' id='line_1_4' title="bbox 364 658 2762 2018; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 364 658 2762 2018; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1729 4468 2662 4842">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1729 4468 2662 4842">
+     <span class='ocr_line' id='line_1_5' title="bbox 1729 4468 2662 4842; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1729 4468 2662 4842; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
